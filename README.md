@@ -39,7 +39,7 @@ https://github.com/jdai315/Blog.git
 <b> Team members </b>
 <br>
 Jerry Dai, Anish Malhotra, Andrew Sikowitz
-</br>
+<br>
 <b> Description </b>
 <br>
 Using a beer API and a my little pony API to make cool things
