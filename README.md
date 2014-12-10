@@ -63,3 +63,12 @@ https://github.com/BigHatMan/thebronies.git
   - Jerry Dai, Abrar Ahmed
   - 5/intro-proj1/abrar_jerry
 
+- todo
+  - Jerry Dai, Eric Wong
+  - 5/todo/ericwong_jerrydai
+
+- invisible thluffy
+  - Jerry Dai, Eric Wong
+  - 5/invisiblethluffy/eric_jerry
+  
+
