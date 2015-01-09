@@ -4,6 +4,21 @@ Period 6
 
 <h2> Main Projects </h2>
 
+<h3> FINAL PROJECT </h3>
+
+<b> Team members </b>
+<br>
+Jerry Dai, Elia Portnoy, Edison Shi
+<br>
+<b> Description </b>
+<br>
+3D-javascript game based around Facebook
+<br>
+<b> Link: </b>
+<br>
+https://github.com/artofelia/EliaEdisonJerry.git
+<br>
+
 <h3> Data Scraping </h3>
 
 <b> Team members </b>
